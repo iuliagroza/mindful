@@ -13,6 +13,6 @@ To achieve this, we employed advanced natural language processing techniques, in
 
 <img src="media/extraction_pipeline.png"/>
 
-**Note:** This repo openly documents the development of the 5W1H Extraction model used by Mindful. This is part of an ongoing collaborative project, whose source code is currently private. 
+**Note:** This repository openly documents the development of the 5W1H Extraction model used by Mindful. This is part of an ongoing collaborative project, whose source code is currently private. 
 
 
